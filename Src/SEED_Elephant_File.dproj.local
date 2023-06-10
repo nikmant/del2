@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile Android="" Android64=""/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.094,C:\Z\Projects 2023\SEED_Nice\SEED_Elephant_File\SEED_Elephant_File\SEED_Elephant_Save.dproj=C:\Z\Projects 2023\SEED_Nice\SEED_Elephant_File\SEED_Elephant_File\SEED_Elephant_File.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.181,C:\Z\Projects 2023\SEED_Nice\SEED_Elephant_Save\SEED_Elephant_Save\TabbedApplication.dproj=C:\Z\Projects 2023\SEED_Nice\SEED_Elephant_Save\SEED_Elephant_Save\SEED_Elephant_Save.dproj</Transaction>
+    <Transaction>2023.06.10 17:39:04.587,C:\Z\Projects 2023\SEED_Nice\SEED_Elephant_File\SEED_Elephant_File\MainFormTabbed.fmx=C:\Z\Projects 2023\SEED_Nice\SEED_Elephant_File\SEED_Elephant_File\TabbedTemplate.fmx</Transaction>
+    <Transaction>2023.06.10 17:39:04.587,C:\Z\Projects 2023\SEED_Nice\SEED_Elephant_File\SEED_Elephant_File\MainFormTabbed.pas=C:\Z\Projects 2023\SEED_Nice\SEED_Elephant_File\SEED_Elephant_File\TabbedTemplate.pas</Transaction>
+  </Transactions>
+</BorlandProject>
